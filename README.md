@@ -11,4 +11,6 @@ Auto-scaled web application using AWS ALB, EC2, ASG with CI/CD
     <p>ALB + Auto Scaling Group + CI/CD</p>
 </body>
 </html>
+<h1>Version 2 – CI/CD Working!</h1>
+
 
